@@ -111,13 +111,7 @@ nav a:hover {
         flex-direction: column;
         justify-content: center;
     }
-
-    nav ul {
-        flex-direction: column
-    }
-
-
     .content {
-        font-size: ;
+        font-size: 1.5rem;
     }
 }
